@@ -1,3 +1,0 @@
-# CAMPUS BACKEND REPOSITORY
-print("Hello world!, this is my first commit to the campus backend repository.")
-print("Git / Github :D")
